@@ -1,7 +1,7 @@
 # Developer-Profile-Sharing-Platform
 
 <br>
-
+This is an online course-based project
 
 # Features
 * Share Projects
